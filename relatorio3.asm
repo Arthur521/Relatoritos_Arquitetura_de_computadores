@@ -1,6 +1,6 @@
 .data
 espaco: .asciiz " "
-frase1: .asciiz "Qual ser· sua idade daqui 30 anos? Digite sua idade: "
+frase1: .asciiz "Qual ser√° sua idade daqui 30 anos? Digite sua idade: "
 
 .text
 
